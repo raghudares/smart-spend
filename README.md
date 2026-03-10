@@ -75,17 +75,6 @@ SmartSpend/
 └── smartspend.db        # SQLite database (auto-created)
 Screenshots
 
-Add screenshots of dashboard, pie chart, or monthly report here for better presentation.
-
-Future Enhancements
-
-Add PDF/Excel export of reports
-
-Implement a web version with Flask
-
-Add savings goal and financial tips
-
-Implement secure password input masking
 
 License
 
